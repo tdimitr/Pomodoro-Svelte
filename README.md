@@ -1,6 +1,6 @@
 # Pomodoro Timer ⏳
 
-My first Svelte app! Pomodoro technique
+My first Svelte app! 
 
 ### What’s Pomodoro?
 1. Choose a task to work on
