@@ -1,4 +1,4 @@
-# Pomodoro Timer ⏳
+# Pomodoro Timer 🍅
 
 My first Svelte app! 
 
